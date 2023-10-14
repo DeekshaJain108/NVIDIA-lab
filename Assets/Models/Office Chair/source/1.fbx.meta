@@ -3,7 +3,32 @@ guid: 3ff0b859ed253ba4f81e4baf245765cb
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal
+    second: {fileID: 2100000, guid: f0a6253db863475428581ae5f5fea48a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chairback
+    second: {fileID: 2100000, guid: 763a9f3d5d2ea1547aebf8ffd23b48e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: f72da9fbd28d6da4d81e39451d40d492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lether
+    second: {fileID: 2100000, guid: 74a802f886d22214b9ed184b3fe39d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matteplastic
+    second: {fileID: 2100000, guid: b79ebb73e00327b4298abee52a4510bb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

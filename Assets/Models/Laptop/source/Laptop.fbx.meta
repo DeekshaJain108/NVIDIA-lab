@@ -3,7 +3,17 @@ guid: 585a0d160b459ad4886b887b47ca27c1
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerFrame
+    second: {fileID: 2100000, guid: 236151f79e3112d47a407f2231e077c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerScreen
+    second: {fileID: 2100000, guid: 0a569a5a35fe96f4c81f2cfef821380e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
